@@ -1,4 +1,5 @@
 ##Code made by Juan Carlos Aguilera Pérez
+##For further information can email me at aguilerap.jc@gmail.com
 import Queue
 import random
 import sys
